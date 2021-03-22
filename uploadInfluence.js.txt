@@ -1,0 +1,5 @@
+
+var admin = require("./getApi");
+
+console.log(admin.api())
+
